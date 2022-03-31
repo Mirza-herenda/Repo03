@@ -1,7 +1,7 @@
 function main()
 {
     //only change code below this line
-    console.log("hello world!");
+    console.log("Hello World!");
     //only change code above this line
 }
 

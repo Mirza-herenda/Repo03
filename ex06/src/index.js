@@ -7,7 +7,7 @@ function main()
    
   x=x+2;
   y=y+4;
-  z=z+" john";
+  z=z+" John!";
   return[x,y,z];
       //only change code above this line
 }
